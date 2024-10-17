@@ -75,28 +75,28 @@
             this.exercise2ToolStripMenuItem.Name = "exercise2ToolStripMenuItem";
             this.exercise2ToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.exercise2ToolStripMenuItem.Text = "Exercício &2";
-            this.exercise2ToolStripMenuItem.Click += new System.EventHandler(this.exercise2ToolStripMenuItem_Click);
+            this.exercise2ToolStripMenuItem.Click += new System.EventHandler(this.Exercise2ToolStripMenuItem_Click);
             // 
             // exercise3ToolStripMenuItem
             // 
             this.exercise3ToolStripMenuItem.Name = "exercise3ToolStripMenuItem";
             this.exercise3ToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.exercise3ToolStripMenuItem.Text = "Exercício &3";
-            this.exercise3ToolStripMenuItem.Click += new System.EventHandler(this.exercise3ToolStripMenuItem_Click);
+            this.exercise3ToolStripMenuItem.Click += new System.EventHandler(this.Exercise3ToolStripMenuItem_Click);
             // 
             // exercise4ToolStripMenuItem
             // 
             this.exercise4ToolStripMenuItem.Name = "exercise4ToolStripMenuItem";
             this.exercise4ToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.exercise4ToolStripMenuItem.Text = "Exercício &4";
-            this.exercise4ToolStripMenuItem.Click += new System.EventHandler(this.exercise4ToolStripMenuItem_Click);
+            this.exercise4ToolStripMenuItem.Click += new System.EventHandler(this.Exercise4ToolStripMenuItem_Click);
             // 
             // exercise5ToolStripMenuItem
             // 
             this.exercise5ToolStripMenuItem.Name = "exercise5ToolStripMenuItem";
             this.exercise5ToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.exercise5ToolStripMenuItem.Text = "Exercício &5";
-            this.exercise5ToolStripMenuItem.Click += new System.EventHandler(this.exercise5ToolStripMenuItem_Click);
+            this.exercise5ToolStripMenuItem.Click += new System.EventHandler(this.Exercise5ToolStripMenuItem_Click);
             // 
             // otherToolStripMenuItem
             // 
@@ -112,7 +112,7 @@
             this.quitToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.W)));
             this.quitToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.quitToolStripMenuItem.Text = "&Sair";
-            this.quitToolStripMenuItem.Click += new System.EventHandler(this.quitToolStripMenuItem_Click);
+            this.quitToolStripMenuItem.Click += new System.EventHandler(this.QuitToolStripMenuItem_Click);
             // 
             // titleBar
             // 
@@ -153,35 +153,35 @@
             this.exercise2ContextMenuItem.Name = "exercise2ContextMenuItem";
             this.exercise2ContextMenuItem.Size = new System.Drawing.Size(130, 22);
             this.exercise2ContextMenuItem.Text = "Exercício 2";
-            this.exercise2ContextMenuItem.Click += new System.EventHandler(this.exercise2ToolStripMenuItem_Click);
+            this.exercise2ContextMenuItem.Click += new System.EventHandler(this.Exercise2ToolStripMenuItem_Click);
             // 
             // exercise3ContextMenuItem
             // 
             this.exercise3ContextMenuItem.Name = "exercise3ContextMenuItem";
             this.exercise3ContextMenuItem.Size = new System.Drawing.Size(130, 22);
             this.exercise3ContextMenuItem.Text = "Exercício 3";
-            this.exercise3ContextMenuItem.Click += new System.EventHandler(this.exercise3ToolStripMenuItem_Click);
+            this.exercise3ContextMenuItem.Click += new System.EventHandler(this.Exercise3ToolStripMenuItem_Click);
             // 
             // exercise4ContextMenuItem
             // 
             this.exercise4ContextMenuItem.Name = "exercise4ContextMenuItem";
             this.exercise4ContextMenuItem.Size = new System.Drawing.Size(130, 22);
             this.exercise4ContextMenuItem.Text = "Exercício 4";
-            this.exercise4ContextMenuItem.Click += new System.EventHandler(this.exercise4ToolStripMenuItem_Click);
+            this.exercise4ContextMenuItem.Click += new System.EventHandler(this.Exercise4ToolStripMenuItem_Click);
             // 
             // exercise5ContextMenuItem
             // 
             this.exercise5ContextMenuItem.Name = "exercise5ContextMenuItem";
             this.exercise5ContextMenuItem.Size = new System.Drawing.Size(130, 22);
             this.exercise5ContextMenuItem.Text = "Exercício 5";
-            this.exercise5ContextMenuItem.Click += new System.EventHandler(this.exercise5ToolStripMenuItem_Click);
+            this.exercise5ContextMenuItem.Click += new System.EventHandler(this.Exercise5ToolStripMenuItem_Click);
             // 
             // quitContextMenuItem
             // 
             this.quitContextMenuItem.Name = "quitContextMenuItem";
             this.quitContextMenuItem.Size = new System.Drawing.Size(130, 22);
             this.quitContextMenuItem.Text = "Sair";
-            this.quitContextMenuItem.Click += new System.EventHandler(this.quitToolStripMenuItem_Click);
+            this.quitContextMenuItem.Click += new System.EventHandler(this.QuitToolStripMenuItem_Click);
             // 
             // MainForm
             // 

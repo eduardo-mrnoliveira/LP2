@@ -89,27 +89,27 @@ namespace PTesteMetodos
             this.OpenForm(new Exercise2Form());
         }
 
-        private void exercise2ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void Exercise2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.OpenForm(new Exercise2Form());
         }
 
-        private void exercise3ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void Exercise3ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.OpenForm(new Exercise3Form());
         }
 
-        private void exercise4ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void Exercise4ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.OpenForm(new Exercise4Form());
         }
 
-        private void exercise5ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void Exercise5ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.OpenForm(new Exercise5Form());
         }
 
-        private void quitToolStripMenuItem_Click(object sender, EventArgs e)
+        private void QuitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
